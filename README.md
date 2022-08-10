@@ -1,2 +1,10 @@
 # cp-testcase-generator
-Automatic test generator for competitive programming
+An automatic test generator for competitive programming
+
+## How to use
+Write your solution in `sol.cpp` and create batch generator in `codegen.h`.  
+Run the generator as folows.
+```bash
+$user make
+$user ./run
+```
