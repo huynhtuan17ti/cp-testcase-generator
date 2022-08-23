@@ -12,9 +12,9 @@ An automatic test generator for competitive programming
 ## How to use
 The template generator of this tool includes 2 files
 ```bash
-    |
-    | --- random.h # including some random functions
-    | --- rand.cpp # the main file to generate testcases
+--- your_dir
+        | --- random.h # including some random functions
+        | --- rand.cpp # the main file to generate testcases
 ```
 To get the template, run.
 ```bash
@@ -23,9 +23,9 @@ To get the template, run.
 
 To generate testcases, your coding directory needs at least 2 files
 ```bash
-    |
-    | --- sol.cpp # the solution
-    | --- rand.cpp # the file mentioned above
+--- your_dir
+        | --- sol.cpp # the solution
+        | --- rand.cpp # the file mentioned above
 ```
 
 Run
