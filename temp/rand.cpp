@@ -12,7 +12,7 @@ void subtask2(){
 }
 
 int main(int argc, char** argv){
-    int curTest = stoi(argv[3]);
+    int curTest = stoi(argv[1]);
     
     switch (curTest){
         case 0 ... 5:
