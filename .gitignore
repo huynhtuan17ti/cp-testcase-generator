@@ -36,3 +36,5 @@
 *.ans
 *.inp
 *.out
+
+gentest
